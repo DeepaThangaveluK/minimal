@@ -1,6 +1,16 @@
-title: Minimal theme
+title: <p align="center"> Deepa Thangavelu </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/deepa-thangavelu-05103915//">LinkedIn</a> |
+  <a href="https://github.com/DeepaThangaveluK">GitHub</a>
+ 
+  <br>  
+  Product Manager in Tesco | MS in AI/ML - IIITB & LJMU | IIM-Kozhikode - Product Management | RetailTech & FinTech Transformation | Responsible & Sustainable AI | Supply Chain Optimization | Digital Product Strategy
+  <br>
+  </p>
+
+  
 theme: jekyll-theme-minimal
